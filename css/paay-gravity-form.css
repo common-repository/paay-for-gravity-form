@@ -1,0 +1,61 @@
+#or_break {
+    width:100%;
+    text-align:center;
+    border-bottom: 1px dashed;
+    line-height:0.1em;
+    margin:30px 0;
+}
+#or_break span {
+    background:#fff;
+    padding:0 10px;
+}
+.paay_field_break {
+    clear: both;
+}
+.paay_field_standalone > div.box {
+    margin-bottom: 10px;
+    box-sizing: padding-box;
+}
+.paay_field_standalone > div.full {
+    width: 100%;
+    clear: both;
+}
+.paay_field_standalone > div.half {
+    width: 50%;
+}
+.paay_field_standalone > div.right {
+    float: right;
+    padding-left: 10px;
+}
+.paay_field_standalone > div.left {
+    float: left;
+    padding-right: 10px;
+}
+.paay_field_standalone input,
+.paay_field_standalone select {
+    border-radius: 10px;
+}
+.paay_field_standalone > div input {
+    width: 100%;
+}
+.paay_field_standalone div select {
+    width: 40%;
+}
+.paay_field_standalone .gform_card_icon_container > div {
+    float: right !important;
+}
+.gform_card_icon_container {
+    width: 50%;
+    float: right;
+    margin: 0 !important;
+}
+.standalone_label {
+    color: #B6D85C;
+}
+.standalone_label span {
+    color: #8CC100;
+}
+.paay_clear {
+    clear: both;
+    margin-bottom: 10px;
+}
